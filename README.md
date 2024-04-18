@@ -7,8 +7,9 @@ A record of the last seven (7) System Designs I have crafted / thought about
 2. [ReminderService]
 3. [A lean hiring process for an Engineering Organization]
 4. [SimplePayments app POC]
-5. [BetPrizeCalculator]
-6. [ExperimentManagementSystem]
+5. [PaymentSystem]
+6. [BetPrizeCalculator]
+7. [ExperimentManagementSystem]
 
 ## By Year
 - [2024]
@@ -23,3 +24,4 @@ A record of the last seven (7) System Designs I have crafted / thought about
 [SubscriptionService]:https://miro.com/app/board/uXjVKXOQYkY=/?share_link_id=825188476004
 [ExperimentManagementSystem]:https://miro.com/app/board/uXjVKWaP3uM=/?share_link_id=98770992128
 [A lean hiring process for an Engineering Organization]:https://miro.com/app/board/uXjVO6P4ar8=/?share_link_id=7522450880
+[PaymentSystem]:https://miro.com/app/board/uXjVKS6qGyU=/?share_link_id=538224047238
